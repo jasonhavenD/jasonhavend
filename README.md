@@ -17,7 +17,7 @@
   <th><a href="https://github.com/jasonhavenD/triplesKB">TriplesKB</a></td>
   </tr>
   
-  <tr><td><a href="https://github.com/jasonhavenD/DJH-Spider"><img width="250px" alt="Spider" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1603446100784&di=604b7756dc8dca041bb20362a5f993a1&imgtype=0&src=http%3A%2F%2Fcdn.gamer-network.net%2F2017%2Fusgamer%2Fspider-man-ps4.jpg" /></a></td>
+  <tr><td><a href="https://github.com/jasonhavenD/DJH-Spider"><img width="250px" alt="Spider" src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1257184917,23033406&fm=26&gp=0.jpg" /></a></td>
 <td><a href="https://github.com/jasonhavenD/weibo_analysis"><img width="250px" alt="Weibo" src="https://raw.githubusercontent.com/jasonhavenD/weibo_analysis/master/images/1.png" /></a></td>
 <td><a href="https://github.com/jasonhavenD/triplesKB"><img width="250px" alt="TriplesKB" src="https://raw.githubusercontent.com/jasonhavenD/triplesKB/master/img/search_keyword.png" /></td></a></tr>
 
