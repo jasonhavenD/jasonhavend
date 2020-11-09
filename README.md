@@ -8,10 +8,10 @@
 - 📫 VX: IMJohnhay
 - 💬 单身
 
-<a href="https://alongwy.top">
+<a href="https://github.com/jasonhavenD">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=jasonhavend&count_private=true" />
 </a>
-<a href="https://alongwy.top">
+<a href="https://github.com/jasonhavenD">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonhavend&hide=HTML,PostScript" />
 </a>
 
